@@ -9,7 +9,6 @@ from line_art import config
 
 IMAGE_NAME = "cat.png"
 DATETIME_NOW = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
-DATETIME_NOW = "-"
 D = None  # width or the height of the image
 N = 200
 SKIP_RANGE = 10  # points, 5 degrees above or below from the current point will be skipped

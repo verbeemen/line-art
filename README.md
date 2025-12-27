@@ -35,8 +35,8 @@ This project uses [uv](https://github.com/astral-sh/uv) for extremely fast Pytho
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/string-art-generator.git
-cd string-art-generator
+git clone https://github.com/verbeemen/line-art.git 
+cd line-art
 ```
 
 
